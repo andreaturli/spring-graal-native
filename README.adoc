@@ -66,7 +66,6 @@ Or you can use https://sdkman.io/[SDKMAN] to easily switch between GraalVM versi
 
 This project is in the spring-projects-experimental org indicating it is not as mature as other Spring projects. Contributions are welcome (maybe read the {documentation-url}/reference/index.html#extension_guide[extension guide] if thinking about extending it to support your project). However, please recognize we aren't at the polishing javadoc stage and whilst pre 1.0 there may be heavy evolution of APIs.
 
-
 == License
 
 https://www.apache.org/licenses/LICENSE-2.0[Apache License v2.0]
